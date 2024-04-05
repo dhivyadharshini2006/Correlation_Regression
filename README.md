@@ -25,7 +25,9 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Result
-![Screenshot 2024-04-05 143253](https://github.com/dhivyadharshini2006/Correlation_Regression/assets/144979490/b36fa4c9-d279-4fbc-91f5-bdb81c65101b)
 
+The code is executed sucessfully.
 
 # Output 
+
+![Screenshot 2024-04-05 143253](https://github.com/dhivyadharshini2006/Correlation_Regression/assets/144979490/b36fa4c9-d279-4fbc-91f5-bdb81c65101b)
